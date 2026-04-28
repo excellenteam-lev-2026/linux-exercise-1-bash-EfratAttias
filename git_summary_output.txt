@@ -1,0 +1,12 @@
+
+ project     : linux-exercise-1-bash-EfratAttias
+ repo age    : 7 weeks 
+ branch:     : step1
+ last active : 7 weeks ago
+ active on   : 1 days
+ commits     : 1
+ files       : 371
+ uncommitted : 1
+ authors     : 
+     1	github-classroom[bot]  100.0%
+"give the repo summary" 
