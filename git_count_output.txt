@@ -1,0 +1,2 @@
+total 
+"return the number of commits already exsist, I get fatal becouse there is no exsist commits" 
